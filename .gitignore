@@ -1,0 +1,10 @@
+main.c
+memo.txt
+test
+*.o
+libasm.so
+/bootstrap
+*.gcno
+unit_tests
+tests/test_main
+a.out
